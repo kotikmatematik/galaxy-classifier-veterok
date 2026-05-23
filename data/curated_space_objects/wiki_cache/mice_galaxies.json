@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Mice Galaxies",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mice Galaxies</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q211449",
+  "titles": {
+    "canonical": "Mice_Galaxies",
+    "normalized": "Mice Galaxies",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mice Galaxies</span></span>"
+  },
+  "pageid": 3192980,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Merging_galaxies_NGC_4676_%28captured_by_the_Hubble_Space_Telescope%29.jpg/330px-Merging_galaxies_NGC_4676_%28captured_by_the_Hubble_Space_Telescope%29.jpg",
+    "width": 330,
+    "height": 248
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Merging_galaxies_NGC_4676_%28captured_by_the_Hubble_Space_Telescope%29.jpg/3840px-Merging_galaxies_NGC_4676_%28captured_by_the_Hubble_Space_Telescope%29.jpg",
+    "width": 3857,
+    "height": 2893
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1350609529",
+  "tid": "902fc512-3e9e-11f1-9bbc-254faf2ecdeb",
+  "timestamp": "2026-04-22T22:56:57Z",
+  "description": "Galaxies in the constellation of Coma Berenices",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mice_Galaxies",
+      "revisions": "https://en.wikipedia.org/wiki/Mice_Galaxies?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mice_Galaxies?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mice_Galaxies"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Mice_Galaxies",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Mice_Galaxies",
+      "edit": "https://en.wikipedia.org/wiki/Mice_Galaxies?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mice_Galaxies"
+    }
+  },
+  "extract": "NGC 4676, or the Mice Galaxies, are two spiral galaxies in the constellation Coma Berenices. About 105.8 megaparsecs distant, they have begun the process of colliding and merging. Their \"mice\" name refers to the long tails produced by tidal action—the relative difference between gravitational pulls on the near and far parts of each galaxy—known here as a galactic tide. It is a possibility that both galaxies, which are members of the Coma Cluster, have experienced a collision, and will continue colliding until they coalesce.",
+  "extract_html": "<p><b>NGC 4676</b>, or the <b>Mice Galaxies</b>, are two spiral galaxies in the constellation Coma Berenices. About 105.8 megaparsecs distant, they have begun the process of colliding and merging. Their \"mice\" name refers to the long tails produced by tidal action—the relative difference between gravitational pulls on the near and far parts of each galaxy—known here as a galactic tide. It is a possibility that both galaxies, which are members of the Coma Cluster, have experienced a collision, and will continue colliding until they coalesce.</p>"
+}

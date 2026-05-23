@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pinwheel Galaxy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pinwheel Galaxy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q14371",
+  "titles": {
+    "canonical": "Pinwheel_Galaxy",
+    "normalized": "Pinwheel Galaxy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pinwheel Galaxy</span></span>"
+  },
+  "pageid": 319122,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/330px-M101_hires_STScI-PRC2006-10a.jpg",
+    "width": 330,
+    "height": 258
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/3840px-M101_hires_STScI-PRC2006-10a.jpg",
+    "width": 15852,
+    "height": 12392
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1353636732",
+  "tid": "0f49460c-4d3d-11f1-a248-7ca1a4c6ecc8",
+  "timestamp": "2026-05-11T13:26:47Z",
+  "description": "Galaxy in the constellation Ursa Major",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pinwheel_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Pinwheel_Galaxy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pinwheel_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pinwheel_Galaxy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Pinwheel_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Pinwheel_Galaxy",
+      "edit": "https://en.wikipedia.org/wiki/Pinwheel_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pinwheel_Galaxy"
+    }
+  },
+  "extract": "The Pinwheel Galaxy is a face-on, counterclockwise intermediate spiral galaxy located 21 million light-years from Earth in the constellation Ursa Major. It was discovered by Pierre Méchain in 1781 and was communicated that year to Charles Messier, who verified its position for inclusion in the Messier Catalogue as one of its final entries.",
+  "extract_html": "<p>The <b>Pinwheel Galaxy</b> is a face-on, counterclockwise intermediate spiral galaxy located 21 million light-years from Earth in the constellation Ursa Major. It was discovered by Pierre Méchain in 1781 and was communicated that year to Charles Messier, who verified its position for inclusion in the <i>Messier Catalogue</i> as one of its final entries.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "NGC 6946",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">NGC 6946</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q671210",
+  "titles": {
+    "canonical": "NGC_6946",
+    "normalized": "NGC 6946",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">NGC 6946</span></span>"
+  },
+  "pageid": 983904,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fireworks_Galaxy.jpg/330px-Fireworks_Galaxy.jpg",
+    "width": 330,
+    "height": 330
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Fireworks_Galaxy.jpg",
+    "width": 1080,
+    "height": 1080
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1322823416",
+  "tid": "3296d694-c427-11f0-b0d0-68f4ceb2119d",
+  "timestamp": "2025-11-18T02:35:08Z",
+  "description": "Galaxy in the constellations Cepheus & Cygnus",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/NGC_6946",
+      "revisions": "https://en.wikipedia.org/wiki/NGC_6946?action=history",
+      "edit": "https://en.wikipedia.org/wiki/NGC_6946?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:NGC_6946"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/NGC_6946",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/NGC_6946",
+      "edit": "https://en.wikipedia.org/wiki/NGC_6946?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:NGC_6946"
+    }
+  },
+  "extract": "NGC 6946, sometimes referred to as the Fireworks Galaxy, is a grand design, face-on intermediate spiral galaxy with a small bright nucleus, whose location in the sky straddles the boundary between the northern constellations of Cepheus and Cygnus. Its distance from Earth is about 25.2 million light-years or 7.72 megaparsecs, similar to the distance of M101 in the constellation Ursa Major. Both were once considered to be part of the Local Group, but are now known to be among the dozen bright spiral galaxies near the Milky Way but beyond the confines of the Local Group. NGC 6946 lies within the Virgo Supercluster.",
+  "extract_html": "<p><b>NGC 6946</b>, sometimes referred to as the <b>Fireworks Galaxy</b>, is a grand design, face-on intermediate spiral galaxy with a small bright nucleus, whose location in the sky straddles the boundary between the northern constellations of Cepheus and Cygnus. Its distance from Earth is about 25.2 million light-years or 7.72 megaparsecs, similar to the distance of M101 in the constellation Ursa Major. Both were once considered to be part of the Local Group, but are now known to be among the dozen bright spiral galaxies near the Milky Way but beyond the confines of the Local Group. NGC 6946 lies within the Virgo Supercluster.</p>"
+}

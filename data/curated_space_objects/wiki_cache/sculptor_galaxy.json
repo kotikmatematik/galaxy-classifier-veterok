@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Sculptor Galaxy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sculptor Galaxy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q487221",
+  "titles": {
+    "canonical": "Sculptor_Galaxy",
+    "normalized": "Sculptor Galaxy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sculptor Galaxy</span></span>"
+  },
+  "pageid": 979452,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NGC_253_-_Sculptor.png/330px-NGC_253_-_Sculptor.png",
+    "width": 330,
+    "height": 301
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/NGC_253_-_Sculptor.png",
+    "width": 2997,
+    "height": 2734
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1355428201",
+  "tid": "f6b40917-554e-11f1-989d-8018a83968dc",
+  "timestamp": "2026-05-21T19:55:06Z",
+  "description": "Intermediate spiral galaxy in the constellation Sculptor",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Sculptor_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Sculptor_Galaxy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Sculptor_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sculptor_Galaxy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Sculptor_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Sculptor_Galaxy",
+      "edit": "https://en.wikipedia.org/wiki/Sculptor_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sculptor_Galaxy"
+    }
+  },
+  "extract": "The Sculptor Galaxy is an intermediate spiral galaxy in the constellation Sculptor. The Sculptor Galaxy is a starburst galaxy, which means that it is currently undergoing a period of intense star formation.",
+  "extract_html": "<p>The <b>Sculptor Galaxy</b> is an intermediate spiral galaxy in the constellation Sculptor. The Sculptor Galaxy is a starburst galaxy, which means that it is currently undergoing a period of intense star formation.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Whirlpool Galaxy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Whirlpool Galaxy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q13957",
+  "titles": {
+    "canonical": "Whirlpool_Galaxy",
+    "normalized": "Whirlpool Galaxy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Whirlpool Galaxy</span></span>"
+  },
+  "pageid": 715308,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/330px-Messier51_sRGB.jpg",
+    "width": 330,
+    "height": 229
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/3840px-Messier51_sRGB.jpg",
+    "width": 11477,
+    "height": 7965
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1352909912",
+  "tid": "1e30a2f7-49a9-11f1-a391-b1f8bce4e081",
+  "timestamp": "2026-05-07T00:10:13Z",
+  "description": "Galaxy in the constellation Canes Venatici",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Whirlpool_Galaxy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Whirlpool_Galaxy",
+      "edit": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Whirlpool_Galaxy"
+    }
+  },
+  "extract": "The Whirlpool Galaxy, also known as Messier 51a (M51a) or NGC 5194, is an interacting grand-design spiral galaxy with a Seyfert 2 active galactic nucleus. It lies in the constellation Canes Venatici, and was the first galaxy to be classified as a spiral galaxy. It is 31 million light-years away and 23.58 kiloparsecs (76,900 ly) in diameter.",
+  "extract_html": "<p>The <b>Whirlpool Galaxy</b>, also known as <b>Messier 51a</b> (<b>M51a</b>) or <b>NGC 5194</b>, is an interacting grand-design spiral galaxy with a Seyfert 2 active galactic nucleus. It lies in the constellation Canes Venatici, and was the first galaxy to be classified as a spiral galaxy. It is 31 million light-years away and 23.58 kiloparsecs (76,900 ly) in diameter.</p>"
+}

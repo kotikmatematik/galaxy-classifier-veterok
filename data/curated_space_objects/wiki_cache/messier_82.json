@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Messier 82",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Messier 82</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q14026",
+  "titles": {
+    "canonical": "Messier_82",
+    "normalized": "Messier 82",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Messier 82</span></span>"
+  },
+  "pageid": 217882,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/330px-M82_HST_ACS_2006-14-a-large_web.jpg",
+    "width": 330,
+    "height": 257
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/3840px-M82_HST_ACS_2006-14-a-large_web.jpg",
+    "width": 9500,
+    "height": 7400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1348520506",
+  "tid": "0d61798f-36e8-11f1-97eb-ec7f50dc9c09",
+  "timestamp": "2026-04-13T03:22:51Z",
+  "description": "Galaxy in the constellation Ursa Major",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Messier_82",
+      "revisions": "https://en.wikipedia.org/wiki/Messier_82?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Messier_82?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Messier_82"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Messier_82",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Messier_82",
+      "edit": "https://en.wikipedia.org/wiki/Messier_82?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Messier_82"
+    }
+  },
+  "extract": "Messier 82 (also known as NGC 3034, Cigar Galaxy or M82) is a starburst galaxy approximately 12 million light-years away in the constellation Ursa Major. It is the second-largest member of the M81 Group, with the D25 isophotal diameter of 12.52 kiloparsecs (40,800 light-years). It is about five times more luminous than the Milky Way and its central region is about one hundred times more luminous. The starburst activity is thought to have been triggered by interaction with neighboring galaxy M81(NGC 3031). As one of the closest starburst galaxies to Earth, M82 is the prototypical example of this galaxy type. SN 2014J, a Type Ia supernova, was discovered in the galaxy on 21 January 2014. In 2014, in studying M82, scientists discovered the brightest pulsar yet known, designated M82 X-2.",
+  "extract_html": "<p><b>Messier 82</b> (also known as <b>NGC 3034</b>, <b>Cigar Galaxy</b> or <b>M82</b>) is a starburst galaxy approximately 12 million light-years away in the constellation Ursa Major. It is the second-largest member of the M81 Group, with the <span>D<sub>25</sub> isophotal diameter</span> of 12.52 kiloparsecs (40,800 light-years). It is about five times more luminous than the Milky Way and its central region is about one hundred times more luminous. The starburst activity is thought to have been triggered by interaction with neighboring galaxy M81(NGC 3031). As one of the closest starburst galaxies to Earth, M82 is the prototypical example of this galaxy type. SN 2014J, a Type Ia supernova, was discovered in the galaxy on 21 January 2014. In 2014, in studying M82, scientists discovered the brightest pulsar yet known, designated M82 X-2.</p>"
+}

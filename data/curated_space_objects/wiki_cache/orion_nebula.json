@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Orion Nebula",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Orion Nebula</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q13903",
+  "titles": {
+    "canonical": "Orion_Nebula",
+    "normalized": "Orion Nebula",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Orion Nebula</span></span>"
+  },
+  "pageid": 177174,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/330px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+    "width": 330,
+    "height": 330
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/3840px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+    "width": 18000,
+    "height": 18000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1354765229",
+  "tid": "882f2e67-526a-11f1-95eb-0b594649cd45",
+  "timestamp": "2026-05-18T03:34:53Z",
+  "description": "Diffuse nebula in the constellation Orion",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Orion_Nebula",
+      "revisions": "https://en.wikipedia.org/wiki/Orion_Nebula?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Orion_Nebula?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Orion_Nebula"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Orion_Nebula",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Orion_Nebula",
+      "edit": "https://en.wikipedia.org/wiki/Orion_Nebula?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Orion_Nebula"
+    }
+  },
+  "extract": "The Orion Nebula is a diffuse nebula in the Milky Way situated south of Orion's Belt in the constellation of Orion, and is known as the middle \"star\" in the \"sword\" of Orion. It is one of the brightest nebulae and is visible to the naked eye in the night sky with an apparent magnitude of 4.0. It is 1,267.0 ± 5.4 light-years (388.5 ± 1.7 pc) away and is the closest region of massive star formation to Earth. M42 is estimated to be 25 light-years across. It has a mass of about 2,000 times that of the Sun. Older texts frequently refer to the Orion Nebula as the Great Nebula in Orion or the Great Orion Nebula.",
+  "extract_html": "<p>The <b>Orion Nebula</b> is a diffuse nebula in the Milky Way situated south of Orion's Belt in the constellation of Orion, and is known as the middle \"star\" in the \"sword\" of Orion. It is one of the brightest nebulae and is visible to the naked eye in the night sky with an apparent magnitude of 4.0. It is 1,267.0 ± 5.4 light-years (388.5 ± 1.7 pc) away and is the closest region of massive star formation to Earth. M42 is estimated to be 25 light-years across. It has a mass of about 2,000 times that of the Sun. Older texts frequently refer to the Orion Nebula as the <b>Great Nebula</b> in Orion or the <b>Great Orion Nebula</b>.</p>"
+}

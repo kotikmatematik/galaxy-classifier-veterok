@@ -1,0 +1,18 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "82687": {
+        "pageid": 82687,
+        "ns": 0,
+        "title": "Hoag's Object",
+        "langlinks": [
+          {
+            "lang": "ru",
+            "*": "Объект Хога"
+          }
+        ]
+      }
+    }
+  }
+}

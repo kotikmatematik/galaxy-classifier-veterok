@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Black Eye Galaxy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Black Eye Galaxy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q13983",
+  "titles": {
+    "canonical": "Black_Eye_Galaxy",
+    "normalized": "Black Eye Galaxy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Black Eye Galaxy</span></span>"
+  },
+  "pageid": 456662,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/NGC_4826_-_HST.png/330px-NGC_4826_-_HST.png",
+    "width": 330,
+    "height": 276
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/NGC_4826_-_HST.png/3840px-NGC_4826_-_HST.png",
+    "width": 4051,
+    "height": 3394
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1354474212",
+  "tid": "4e1b3961-514b-11f1-95e9-68caec3d1142",
+  "timestamp": "2026-05-16T17:18:50Z",
+  "description": "Spiral galaxy in the constellation Coma Berenices",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Black_Eye_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Black_Eye_Galaxy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Black_Eye_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Black_Eye_Galaxy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Black_Eye_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Black_Eye_Galaxy",
+      "edit": "https://en.wikipedia.org/wiki/Black_Eye_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Black_Eye_Galaxy"
+    }
+  },
+  "extract": "The Black Eye Galaxy is a relatively isolated spiral galaxy 17 million light-years away in the constellation of Coma Berenices. It was discovered by Edward Pigott in March 1779, and independently by Johann Elert Bode the following month, as well as by Charles Messier the next year. A dark band of absorbing dust partially in front of its bright nucleus gave rise to its nicknames of the \"Black Eye\", \"Evil Eye\", or \"Sleeping Beauty\" galaxy. M64 is well known among amateur astronomers due to its form in small telescopes and visibility across inhabited latitudes.",
+  "extract_html": "<p>The <b>Black Eye Galaxy</b> is a relatively isolated spiral galaxy 17 million light-years away in the constellation of Coma Berenices. It was discovered by Edward Pigott in March 1779, and independently by Johann Elert Bode the following month, as well as by Charles Messier the next year. A dark band of absorbing dust partially in front of its bright nucleus gave rise to its nicknames of the \"Black Eye\", \"Evil Eye\", or \"Sleeping Beauty\" galaxy. M64 is well known among amateur astronomers due to its form in small telescopes and visibility across inhabited latitudes.</p>"
+}

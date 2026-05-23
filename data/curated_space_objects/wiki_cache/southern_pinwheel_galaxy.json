@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Messier 83",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Messier 83</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q14030",
+  "titles": {
+    "canonical": "Messier_83",
+    "normalized": "Messier 83",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Messier 83</span></span>"
+  },
+  "pageid": 319153,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Outskirts_of_the_Southern_Pinwheel_Galaxy_%28noirlab2429a%29.jpg/330px-The_Outskirts_of_the_Southern_Pinwheel_Galaxy_%28noirlab2429a%29.jpg",
+    "width": 330,
+    "height": 278
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Outskirts_of_the_Southern_Pinwheel_Galaxy_%28noirlab2429a%29.jpg/3840px-The_Outskirts_of_the_Southern_Pinwheel_Galaxy_%28noirlab2429a%29.jpg",
+    "width": 7270,
+    "height": 6118
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1348469655",
+  "tid": "f2c1dcb3-36b4-11f1-afe5-5267b33bd18d",
+  "timestamp": "2026-04-12T21:17:02Z",
+  "description": "Galaxy in the constellation Hydra",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Messier_83",
+      "revisions": "https://en.wikipedia.org/wiki/Messier_83?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Messier_83?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Messier_83"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Messier_83",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Messier_83",
+      "edit": "https://en.wikipedia.org/wiki/Messier_83?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Messier_83"
+    }
+  },
+  "extract": "Messier 83 or M83, also known as the Southern Pinwheel Galaxy and NGC 5236, is a barred spiral galaxy approximately 15 million light-years away in the constellation borders of Hydra and Centaurus. Nicolas-Louis de Lacaille discovered M83 on 17 February 1752 at the Cape of Good Hope. Charles Messier added it to his catalogue of nebulous objects in March 1781.",
+  "extract_html": "<p><b>Messier 83</b> or <b>M83</b>, also known as the <b>Southern Pinwheel Galaxy</b> and <b>NGC 5236</b>, is a barred spiral galaxy approximately 15 million light-years away in the constellation borders of Hydra and Centaurus. Nicolas-Louis de Lacaille discovered M83 on 17 February 1752 at the Cape of Good Hope. Charles Messier added it to his catalogue of nebulous objects in March 1781.</p>"
+}

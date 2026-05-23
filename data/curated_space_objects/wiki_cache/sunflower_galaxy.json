@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Messier 63",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Messier 63</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q13981",
+  "titles": {
+    "canonical": "Messier_63",
+    "normalized": "Messier 63",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Messier 63</span></span>"
+  },
+  "pageid": 964113,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M63_%28NGC_5055%29.jpg/330px-M63_%28NGC_5055%29.jpg",
+    "width": 330,
+    "height": 224
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/M63_%28NGC_5055%29.jpg",
+    "width": 1557,
+    "height": 1055
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1348445582",
+  "tid": "c353a76e-369d-11f1-a0fa-4808e9ce79f3",
+  "timestamp": "2026-04-12T18:31:04Z",
+  "description": "Spiral galaxy in the constellation Canes Venatici",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Messier_63",
+      "revisions": "https://en.wikipedia.org/wiki/Messier_63?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Messier_63?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Messier_63"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Messier_63",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Messier_63",
+      "edit": "https://en.wikipedia.org/wiki/Messier_63?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Messier_63"
+    }
+  },
+  "extract": "Messier 63 or M63, also known as NGC 5055 or the seldom-used Sunflower Galaxy, is a spiral galaxy in the northern constellation of Canes Venatici with approximately 400 billion stars. M63 was first discovered by the French astronomer Pierre Méchain, then later verified by his colleague Charles Messier on 14 June 1779. The galaxy became listed as object 63 in the Messier Catalogue. In the mid-19th century, Anglo-Irish astronomer Lord Rosse identified spiral structures within the galaxy, making this one of the first galaxies in which such structure was identified.",
+  "extract_html": "<p><b>Messier 63</b> or <b>M63</b>, also known as <b>NGC 5055</b> or the seldom-used <b>Sunflower Galaxy</b>, is a spiral galaxy in the northern constellation of Canes Venatici with approximately 400 billion stars. M63 was first discovered by the French astronomer Pierre Méchain, then later verified by his colleague Charles Messier on 14 June 1779. The galaxy became listed as object 63 in the Messier Catalogue. In the mid-19th century, Anglo-Irish astronomer Lord Rosse identified spiral structures within the galaxy, making this one of the first galaxies in which such structure was identified.</p>"
+}

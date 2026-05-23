@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Andromeda Galaxy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Andromeda Galaxy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2469",
+  "titles": {
+    "canonical": "Andromeda_Galaxy",
+    "normalized": "Andromeda Galaxy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Andromeda Galaxy</span></span>"
+  },
+  "pageid": 74331,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andromeda_Galaxy_2025.png/330px-Andromeda_Galaxy_2025.png",
+    "width": 330,
+    "height": 215
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andromeda_Galaxy_2025.png/3840px-Andromeda_Galaxy_2025.png",
+    "width": 5827,
+    "height": 3803
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1354498974",
+  "tid": "ffc7676a-5165-11f1-a551-77fe3b18aa8c",
+  "timestamp": "2026-05-16T20:29:55Z",
+  "description": "Barred spiral galaxy in the Local Group",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Andromeda_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Andromeda_Galaxy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Andromeda_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Andromeda_Galaxy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Andromeda_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Andromeda_Galaxy",
+      "edit": "https://en.wikipedia.org/wiki/Andromeda_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Andromeda_Galaxy"
+    }
+  },
+  "extract": "The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way. It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224. Andromeda has a D25 isophotal diameter of about 46.56 kiloparsecs (152,000 light-years) and is approximately 765 kpc (2.5 million light-years) from Earth. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology.",
+  "extract_html": "<p>The <b>Andromeda Galaxy</b> is a barred spiral galaxy and is the nearest major galaxy to the Milky Way. It was originally named the <b>Andromeda Nebula</b> and is cataloged as <b>Messier 31</b>, <b>M31</b>, and <b>NGC 224</b>. Andromeda has a <span>D<sub>25</sub> isophotal diameter</span> of about 46.56 kiloparsecs (152,000 light-years) and is approximately 765 kpc (2.5 million light-years) from Earth. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology.</p>"
+}

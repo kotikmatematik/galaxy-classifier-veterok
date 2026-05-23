@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Centaurus A",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Centaurus A</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q487255",
+  "titles": {
+    "canonical": "Centaurus_A",
+    "normalized": "Centaurus A",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Centaurus A</span></span>"
+  },
+  "pageid": 522868,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ESO_Centaurus_A_LABOCA.jpg/330px-ESO_Centaurus_A_LABOCA.jpg",
+    "width": 330,
+    "height": 348
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/ESO_Centaurus_A_LABOCA.jpg",
+    "width": 2808,
+    "height": 2957
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1351704006",
+  "tid": "0aee6891-43ea-11f1-802f-bc72013b0b13",
+  "timestamp": "2026-04-29T16:39:51Z",
+  "description": "Radio galaxy in the constellation Centaurus",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Centaurus_A",
+      "revisions": "https://en.wikipedia.org/wiki/Centaurus_A?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Centaurus_A?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Centaurus_A"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Centaurus_A",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Centaurus_A",
+      "edit": "https://en.wikipedia.org/wiki/Centaurus_A?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Centaurus_A"
+    }
+  },
+  "extract": "Centaurus A is a galaxy in the constellation of Centaurus. It was discovered in 1826 by Scottish astronomer James Dunlop from his home in Parramatta, in New South Wales, Australia. There is considerable debate in the literature regarding the galaxy's fundamental properties such as its Hubble type and distance. It is the closest radio galaxy to Earth, as well as the closest BL Lac object, so its active galactic nucleus has been extensively studied by professional astronomers. The galaxy is also the fifth-brightest in the sky, making it an ideal amateur astronomy target. It is only visible from the southern hemisphere and low northern latitudes.",
+  "extract_html": "<p><b>Centaurus A</b> is a galaxy in the constellation of Centaurus. It was discovered in 1826 by Scottish astronomer James Dunlop from his home in Parramatta, in New South Wales, Australia. There is considerable debate in the literature regarding the galaxy's fundamental properties such as its Hubble type and distance. It is the closest radio galaxy to Earth, as well as the closest BL Lac object, so its active galactic nucleus has been extensively studied by professional astronomers. The galaxy is also the fifth-brightest in the sky, making it an ideal amateur astronomy target. It is only visible from the southern hemisphere and low northern latitudes.</p>"
+}

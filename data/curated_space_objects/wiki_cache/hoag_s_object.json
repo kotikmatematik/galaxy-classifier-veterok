@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Hoag's Object",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hoag&#039;s Object</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q872197",
+  "titles": {
+    "canonical": "Hoag's_Object",
+    "normalized": "Hoag's Object",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hoag&#039;s Object</span></span>"
+  },
+  "pageid": 82687,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hoag%27s_object.jpg/330px-Hoag%27s_object.jpg",
+    "width": 330,
+    "height": 323
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Hoag%27s_object.jpg",
+    "width": 1521,
+    "height": 1489
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1338615655",
+  "tid": "ac0f961c-0afa-11f1-9a21-d8924a587723",
+  "timestamp": "2026-02-16T05:45:17Z",
+  "description": "Galaxy in the constellation Serpens Caput",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hoag's_Object",
+      "revisions": "https://en.wikipedia.org/wiki/Hoag's_Object?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hoag's_Object?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hoag's_Object"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Hoag's_Object",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Hoag's_Object",
+      "edit": "https://en.wikipedia.org/wiki/Hoag's_Object?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hoag's_Object"
+    }
+  },
+  "extract": "Hoag's Object is an unusual ring galaxy in the constellation of Serpens Caput. It is named after Arthur Hoag, who discovered it in 1950 and identified it as either a planetary nebula or a peculiar galaxy. The galaxy has a D25 isophotal diameter of 45.41 kiloparsecs (148,000 light-years).",
+  "extract_html": "<p><b>Hoag's Object</b> is an unusual ring galaxy in the constellation of Serpens Caput. It is named after Arthur Hoag, who discovered it in 1950 and identified it as either a planetary nebula or a peculiar galaxy. The galaxy has a <span>D<sub>25</sub> isophotal diameter</span> of 45.41 kiloparsecs (148,000 light-years).</p>"
+}

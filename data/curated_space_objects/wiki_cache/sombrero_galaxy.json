@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Sombrero Galaxy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sombrero Galaxy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q91461627",
+  "titles": {
+    "canonical": "Sombrero_Galaxy",
+    "normalized": "Sombrero Galaxy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sombrero Galaxy</span></span>"
+  },
+  "pageid": 864424,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sombrero_Galaxy_%28heic2506a%29.jpg/330px-Sombrero_Galaxy_%28heic2506a%29.jpg",
+    "width": 330,
+    "height": 195
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sombrero_Galaxy_%28heic2506a%29.jpg/3840px-Sombrero_Galaxy_%28heic2506a%29.jpg",
+    "width": 14319,
+    "height": 8477
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1351857813",
+  "tid": "6a617b8b-44ad-11f1-9438-22f8f7cb028e",
+  "timestamp": "2026-04-30T15:58:23Z",
+  "description": "Galaxy in the constellation Virgo",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Sombrero_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Sombrero_Galaxy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Sombrero_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sombrero_Galaxy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Sombrero_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Sombrero_Galaxy",
+      "edit": "https://en.wikipedia.org/wiki/Sombrero_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sombrero_Galaxy"
+    }
+  },
+  "extract": "The Sombrero Galaxy is a peculiar galaxy of unclear classification in the constellation borders of Virgo and Corvus, being about 9.55 megaparsecs from the Milky Way galaxy. It is a member of the Virgo II Groups, a series of galaxies and galaxy clusters strung out from the southern edge of the Virgo Supercluster. It has an isophotal diameter of approximately 29.09 to 32.32 kiloparsecs, making it slightly larger than the Milky Way.",
+  "extract_html": "<p>The <b>Sombrero Galaxy</b> is a peculiar galaxy of unclear classification in the constellation borders of Virgo and Corvus, being about 9.55 megaparsecs from the Milky Way galaxy. It is a member of the Virgo II Groups, a series of galaxies and galaxy clusters strung out from the southern edge of the Virgo Supercluster. It has an isophotal diameter of approximately 29.09 to 32.32 kiloparsecs, making it slightly larger than the Milky Way.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Triangulum Galaxy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Triangulum Galaxy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q13724",
+  "titles": {
+    "canonical": "Triangulum_Galaxy",
+    "normalized": "Triangulum Galaxy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Triangulum Galaxy</span></span>"
+  },
+  "pageid": 198476,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg/330px-VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg",
+    "width": 330,
+    "height": 393
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg/3840px-VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg",
+    "width": 15983,
+    "height": 19058
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1354084773",
+  "tid": "6460a560-4f57-11f1-9d47-7ac855c44ce5",
+  "timestamp": "2026-05-14T05:40:19Z",
+  "description": "Spiral galaxy in the constellation Triangulum",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Triangulum_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Triangulum_Galaxy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Triangulum_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Triangulum_Galaxy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Triangulum_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Triangulum_Galaxy",
+      "edit": "https://en.wikipedia.org/wiki/Triangulum_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Triangulum_Galaxy"
+    }
+  },
+  "extract": "The Triangulum Galaxy is a spiral galaxy 2.878 million light-years (ly) from Earth in the constellation Triangulum. It is catalogued as Messier 33 or NGC 598. With the D25 isophotal diameter of 18.74 kiloparsecs (61,100 light-years), the Triangulum Galaxy is the third-largest member of the Local Group of galaxies, behind the Andromeda Galaxy and the Milky Way.",
+  "extract_html": "<p>The <b>Triangulum Galaxy</b> is a spiral galaxy 2.878 million light-years (ly) from Earth in the constellation Triangulum. It is catalogued as <b>Messier 33</b> or <b>NGC 598</b>. With the D<sub>25</sub> isophotal diameter of 18.74 kiloparsecs (61,100 light-years), the Triangulum Galaxy is the third-largest member of the Local Group of galaxies, behind the Andromeda Galaxy and the Milky Way.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "NGC 4565",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">NGC 4565</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q622690",
+  "titles": {
+    "canonical": "NGC_4565",
+    "normalized": "NGC 4565",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">NGC 4565</span></span>"
+  },
+  "pageid": 4183321,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Needle_Galaxy_4565.jpeg/330px-Needle_Galaxy_4565.jpeg",
+    "width": 330,
+    "height": 312
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Needle_Galaxy_4565.jpeg/3840px-Needle_Galaxy_4565.jpeg",
+    "width": 4064,
+    "height": 3843
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1345634884",
+  "tid": "75048fb7-299e-11f1-ad28-39e554356599",
+  "timestamp": "2026-03-27T05:33:17Z",
+  "description": "Galaxy in the constellation Coma Berenices",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/NGC_4565",
+      "revisions": "https://en.wikipedia.org/wiki/NGC_4565?action=history",
+      "edit": "https://en.wikipedia.org/wiki/NGC_4565?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:NGC_4565"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/NGC_4565",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/NGC_4565",
+      "edit": "https://en.wikipedia.org/wiki/NGC_4565?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:NGC_4565"
+    }
+  },
+  "extract": "NGC 4565 is an edge-on spiral galaxy about 30 to 50 million light-years away in the constellation Coma Berenices. It lies close to the North Galactic Pole and has a visual magnitude of approximately 10. It is known as the Needle Galaxy for its narrow profile, and is a prominent example of an edge-on spiral galaxy. It was discovered by German-British astronomer William Herschel on 6 April 1785.",
+  "extract_html": "<p><b>NGC 4565</b> is an edge-on spiral galaxy about 30 to 50 million light-years away in the constellation Coma Berenices. It lies close to the North Galactic Pole and has a visual magnitude of approximately 10. It is known as the Needle Galaxy for its narrow profile, and is a prominent example of an edge-on spiral galaxy. It was discovered by German-British astronomer William Herschel on 6 April 1785.</p>"
+}

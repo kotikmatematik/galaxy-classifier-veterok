@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tadpole Galaxy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tadpole Galaxy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q115482",
+  "titles": {
+    "canonical": "Tadpole_Galaxy",
+    "normalized": "Tadpole Galaxy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tadpole Galaxy</span></span>"
+  },
+  "pageid": 3663712,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/UGC_10214HST.jpg/330px-UGC_10214HST.jpg",
+    "width": 330,
+    "height": 357
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/UGC_10214HST.jpg/3840px-UGC_10214HST.jpg",
+    "width": 4678,
+    "height": 5062
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1326027760",
+  "tid": "9bf164c4-d2ca-11f0-a12f-b62eace60923",
+  "timestamp": "2025-12-06T17:40:09Z",
+  "description": "Galaxy in the constellation Draco",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tadpole_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Tadpole_Galaxy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tadpole_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tadpole_Galaxy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Tadpole_Galaxy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Tadpole_Galaxy",
+      "edit": "https://en.wikipedia.org/wiki/Tadpole_Galaxy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tadpole_Galaxy"
+    }
+  },
+  "extract": "The Tadpole Galaxy, also known as UGC 10214 and Arp 188, is a disrupted barred spiral galaxy located 143.6 megaparsecs from Earth in the northern constellation Draco. Its most dramatic feature is a trail of stars, and it has a D25.0 isophotal diameter of 171 kiloparsecs long. Its size has been attributed to a merger with a smaller galaxy that is believed to have occurred about 100 million years ago. The galaxy is filled with bright blue star clusters triggered by the merger, some containing as many as one million stars. It is one of the largest known disrupted spiral galaxies of its sort.",
+  "extract_html": "<p>The <b>Tadpole Galaxy</b>, also known as <b>UGC 10214</b> and <b>Arp 188</b>, is a disrupted barred spiral galaxy located 143.6 megaparsecs from Earth in the northern constellation Draco. Its most dramatic feature is a trail of stars, and it has a D<sub>25.0</sub> isophotal diameter of 171 kiloparsecs long. Its size has been attributed to a merger with a smaller galaxy that is believed to have occurred about 100 million years ago. The galaxy is filled with bright blue star clusters triggered by the merger, some containing as many as one million stars. It is one of the largest known disrupted spiral galaxies of its sort.</p>"
+}

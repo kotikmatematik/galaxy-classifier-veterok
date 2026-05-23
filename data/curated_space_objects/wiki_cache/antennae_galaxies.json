@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Antennae Galaxies",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Antennae Galaxies</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q725595",
+  "titles": {
+    "canonical": "Antennae_Galaxies",
+    "normalized": "Antennae Galaxies",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Antennae Galaxies</span></span>"
+  },
+  "pageid": 1111758,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Antennae_Galaxies_reloaded.jpg/330px-Antennae_Galaxies_reloaded.jpg",
+    "width": 330,
+    "height": 328
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Antennae_Galaxies_reloaded.jpg/3840px-Antennae_Galaxies_reloaded.jpg",
+    "width": 4240,
+    "height": 4211
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1350609412",
+  "tid": "6e3640bb-3e9e-11f1-9312-e82c0d2092be",
+  "timestamp": "2026-04-22T22:56:00Z",
+  "description": "Galaxies in the constellation Corvus",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Antennae_Galaxies",
+      "revisions": "https://en.wikipedia.org/wiki/Antennae_Galaxies?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Antennae_Galaxies?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Antennae_Galaxies"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Antennae_Galaxies",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Antennae_Galaxies",
+      "edit": "https://en.wikipedia.org/wiki/Antennae_Galaxies?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Antennae_Galaxies"
+    }
+  },
+  "extract": "The Antennae Galaxies are a pair of interacting galaxies in the constellation Corvus. They are currently going through a starburst phase, in which the collision of clouds of gas and dust, with entangled magnetic fields, causes rapid star formation. They were discovered by William Herschel in 1785.",
+  "extract_html": "<p>The <b>Antennae Galaxies</b> are a pair of interacting galaxies in the constellation Corvus. They are currently going through a starburst phase, in which the collision of clouds of gas and dust, with entangled magnetic fields, causes rapid star formation. They were discovered by William Herschel in 1785.</p>"
+}
