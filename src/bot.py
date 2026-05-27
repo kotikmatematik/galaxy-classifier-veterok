@@ -9,6 +9,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import BufferedInputFile, Message, ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
+from .analytics import log_user_event
 from .cards import create_prediction_card
 from .config import DEFAULT_BIAS_STRENGTH, DEFAULT_CANDIDATE_K, DEFAULT_SELECTION, DEFAULT_TEMPERATURE, TMP_DIR
 from .matcher import MatchSettings, SpaceObjectMatcher
@@ -54,6 +55,7 @@ def build_router(matcher: SpaceObjectMatcher):
 
     async def ask_language(message: Message, state: FSMContext):
         """Reset the user flow and ask for the output card language."""
+        log_user_event(message, 'start')
         await state.set_state(UserFlow.choosing_language)
         await message.answer(WELCOME_TEXT, reply_markup=LANG_KEYBOARD)
 
@@ -77,6 +79,7 @@ def build_router(matcher: SpaceObjectMatcher):
             return
 
         await state.update_data(lang=lang)
+        log_user_event(message, 'language_selected', language=lang)
         await state.set_state(UserFlow.waiting_for_photo)
         if lang == 'en':
             await message.answer('Send me a portrait photo and I will return your space-object card.', reply_markup=ReplyKeyboardRemove())
@@ -107,6 +110,14 @@ def build_router(matcher: SpaceObjectMatcher):
                 temperature=DEFAULT_TEMPERATURE,
             )
             best, _, _ = await asyncio.to_thread(matcher.predict_space_object_raw, input_path, settings)
+            log_user_event(
+                message,
+                'photo_matched',
+                language=lang,
+                matched_object_en=str(best.get('name_en', '')),
+                matched_object_ru=str(best.get('name_ru', '')),
+                match_percent=round(float(best.cosmic_match_percent), 1),
+            )
             card_path = await asyncio.to_thread(create_prediction_card, input_path, best, lang, output_path)
 
             card_bytes = card_path.read_bytes()

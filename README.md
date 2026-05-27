@@ -13,6 +13,7 @@ The project started as a notebook prototype and is now organized as a small depl
 - Applies the existing calibration and presentation scoring logic.
 - Generates a JPG card with the user photo, matched object image, text, and match score.
 - Sends the card back to the user and deletes temporary files.
+- Writes a local CSV event log for basic user/activity analytics.
 
 ## Demo Flow
 
@@ -35,7 +36,8 @@ The project started as a notebook prototype and is now organized as a small depl
 │   └── matcher.py                 # CLIP matching and scoring
 ├── scripts/
 │   ├── check_fonts.py             # Shows which card fonts are used
-│   └── check_runtime.py           # Validates data files and .env
+│   ├── check_runtime.py           # Validates data files and .env
+│   └── show_users.py              # Summarizes local bot event logs
 ├── data/curated_space_objects/
 │   ├── space_objects_data.csv
 │   ├── space_object_embeddings.npy
@@ -161,6 +163,28 @@ Check which fonts are used on the server:
 python scripts/check_fonts.py
 ```
 
+## User Analytics
+
+The bot writes basic event logs to:
+
+```text
+data/curated_space_objects/bot_events.csv
+```
+
+The file includes Telegram user IDs, usernames, names, selected language, event type, timestamp, and match metadata. It is ignored by git because it contains user data.
+
+Show a compact user summary:
+
+```bash
+python scripts/show_users.py
+```
+
+Inspect recent raw events on the server:
+
+```bash
+tail -n 20 data/curated_space_objects/bot_events.csv
+```
+
 ## Development Checks
 
 Run these before deploying changes:
@@ -177,6 +201,7 @@ python scripts/check_fonts.py
 - The bot uses polling, so no domain, TLS certificate, or webhook setup is required.
 - Generated cards are written to `data/curated_space_objects/cards/` and ignored by git.
 - Temporary Telegram photos are written to `tmp/` and ignored by git.
+- User analytics are written to `data/curated_space_objects/bot_events.csv` and ignored by git.
 
 ## More Documentation
 

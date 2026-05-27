@@ -8,6 +8,7 @@ EMBEDDINGS_PATH = DATA_DIR / 'space_object_embeddings.npy'
 BIAS_PATH = DATA_DIR / 'space_object_person_bias.npy'
 CARDS_DIR = DATA_DIR / 'cards'
 TMP_DIR = ROOT_DIR / 'tmp'
+ANALYTICS_PATH = DATA_DIR / 'bot_events.csv'
 
 MODEL_NAME = 'clip-ViT-B-32'
 DEFAULT_CANDIDATE_K = 5
