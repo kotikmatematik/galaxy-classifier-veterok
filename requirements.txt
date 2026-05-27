@@ -1,0 +1,7 @@
+aiogram>=3.7,<4
+python-dotenv>=1.0,<2
+sentence-transformers>=2.7,<6
+pillow>=10,<12
+pandas>=2,<3
+numpy>=1.26,<3
+scikit-learn>=1.4,<2

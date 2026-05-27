@@ -1,0 +1,16 @@
+[Unit]
+Description=Space Object Telegram Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/user/spacebot
+EnvironmentFile=/home/user/spacebot/.env
+ExecStart=/home/user/spacebot/.venv/bin/python /home/user/spacebot/app.py
+Restart=always
+RestartSec=5
+User=user
+
+[Install]
+WantedBy=multi-user.target
