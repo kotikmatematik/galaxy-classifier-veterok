@@ -13,7 +13,7 @@ rsync -av \
   --exclude '__pycache__' \
   --exclude '.DS_Store' \
   --exclude 'tmp' \
-  ./ user@IP:/home/user/spacebot/
+  ./ user@IP:/home/user/galaxy-matching-veterok/
 ```
 
 ## Ubuntu Setup
@@ -28,7 +28,7 @@ sudo apt install -y python3-venv python3-pip fonts-dejavu-core fonts-liberation2
 Go to the project directory:
 
 ```bash
-cd /home/user/spacebot
+cd /home/user/galaxy-matching-veterok
 ```
 
 Create a virtual environment and install dependencies:
@@ -65,16 +65,18 @@ python app.py
 If `scripts/check_fonts.py` prints `Pillow default bitmap font`, install the font packages above or set explicit font paths in `.env`:
 
 ```bash
-CARD_FONT_REGULAR=/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf
-CARD_FONT_BOLD=/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf
+CARD_FONT_REGULAR=/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf
+CARD_FONT_BOLD=/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf
 ```
+
+Run `python scripts/check_fonts.py` after changing `.env`; it prints the final font files used by Pillow.
 
 ## Systemd Service
 
 Before installing the service, edit `deploy/spacebot.service.example` and replace:
 
 - `user` with the real Linux user.
-- `/home/user/spacebot` with the real project path.
+- `/home/user/galaxy-matching-veterok` with the real project path.
 
 Install and start the service:
 

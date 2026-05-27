@@ -1,13 +1,13 @@
 [Unit]
-Description=Space Object Telegram Bot
+Description=galaxy-matching-veterok Telegram Bot
 After=network-online.target
 Wants=network-online.target
 
 [Service]
 Type=simple
-WorkingDirectory=/home/user/spacebot
-EnvironmentFile=/home/user/spacebot/.env
-ExecStart=/home/user/spacebot/.venv/bin/python /home/user/spacebot/app.py
+WorkingDirectory=/home/user/galaxy-matching-veterok
+EnvironmentFile=/home/user/galaxy-matching-veterok/.env
+ExecStart=/home/user/galaxy-matching-veterok/.venv/bin/python /home/user/galaxy-matching-veterok/app.py
 Restart=always
 RestartSec=5
 User=user
